@@ -12,6 +12,9 @@ Generic options
     -r, --remotes         act on remote-tracking branches
     --contains <commit>   print only branches that contain the commit
     --abbrev[=<n>]        use <n> digits to display SHA-1s
+Some additional babbel for testing
+This could be some bigger block maybe?
+The rest of the lines will be moved down...
 
 Specific git-branch actions:
     -a, --all             list both remote-tracking and local branches
